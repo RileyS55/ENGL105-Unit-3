@@ -12,3 +12,5 @@ The data in this repository is sourced from the Davis library at the University 
 The purpose of this repository is to explore public health data for my ENGL-105 unit 3 project.
 ### Potential 
 This repository has the potential to explore public health data across different counties. It can assist the comparative analysis of health care outcomes, costs, and access.
+
+![I5f2w-variables-across-the-south-by-state (1)](https://user-images.githubusercontent.com/116900517/202931977-4df21ac6-696c-4238-a756-15550d793d66.png)

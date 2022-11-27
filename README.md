@@ -3,7 +3,7 @@ This is a repository examining county-based public health data across the Southe
 
 The repository contains:
 1. CSV. file with data collected from individual counties across the United States
-2. CSV. file sample repository contains an aggregate of public health data from the southern region of the United States
+2. CSV. file sample repository containing an aggregate of public health data from the southern region of the United States
 3. Two Jupyter Labs tutorials on using Pandas for data analysis 
 
 This repository also contains a visual representation created in [Datawrapper](https://www.datawrapper.de/) of the data.

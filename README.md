@@ -4,7 +4,7 @@ This is a repository containing county-based public health data, and a sample re
 The repository contains:
 1. CSV. file with data collected from individual counties across the United States
 2. CSV. file sample repository contain an aggregate of public health data from the southern region of the United States
-3. Jupyter Labs 
+3. Two Jupyter Labs tutorials
 4. Graphical representation of data
 
 ## Source of Data
@@ -19,6 +19,6 @@ The purpose of this repository is to explore public health data from the Souther
 This repository has the potential to explore public health data across different counties. It can assist the comparative analysis of health care outcomes, costs, and access.
 
 ### Data Visualization
-Included below, is a graph comparing health care variables by states in the South.
+The graph included below, comparing healthcare variables by states in the South, demonstrates the repository's potential.
 
 ![I5f2w-variables-across-the-south-by-state (1)](https://user-images.githubusercontent.com/116900517/202931977-4df21ac6-696c-4238-a756-15550d793d66.png)

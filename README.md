@@ -1,5 +1,8 @@
 # Southern United States Health Data Public Repository
-This is a repository examining county-based public health data across the Southern-Eastern region of the United States, created for Dr. Gotzler's English 105 class at the University of North Carolina, Chapel Hill. 
+
+The Southern United States Health Data Public Repository examines three experimental variables, the average number of poor mental health days, the percentage of people with poor or fair health, and average healthcare costs across different counties across the South. It also shows which states the counties are in to aid in comparing outcomes across the region.
+
+This repository was created for Dr. Gotzler's English 105 class at the University of North Carolina, Chapel Hill. 
 
 The repository contains:
 1. CSV. file with data collected from individual counties across the United States
